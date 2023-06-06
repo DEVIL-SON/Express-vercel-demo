@@ -1,4 +1,4 @@
-// import express from "express";
+const express = require('express');
 
 // const app = express();
 // const port = 9000;
@@ -10,7 +10,7 @@
 //   console.log(`Starting Server on Port ${port}`);
 // });
 
-const express = require('express');
+
 const bodyParser = require('body-parser');
 
 // Create Express app
